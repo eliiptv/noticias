@@ -1,42 +1,42 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="BandNews" tvg-name="BAND NEWS" tvg-logo="http://img.starbr.in/1516239506_9b9974cafce5cf724e5338189b8d013ebe2c17e4.jpg" group-title="Noticias",BAND NEWS
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1107
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/1107
 #EXTINF:-1 tvg-id="BandNews" tvg-name="BAND NEWS FULL HD" tvg-logo="http://img.starbr.in/1516239506_9b9974cafce5cf724e5338189b8d013ebe2c17e4.jpg" group-title="Noticias",BAND NEWS FULL HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/18028
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/18028
 #EXTINF:-1 tvg-id="BandNews" tvg-name="BAND NEWS HD" tvg-logo="http://img.starbr.in/1516239506_9b9974cafce5cf724e5338189b8d013ebe2c17e4.jpg" group-title="Noticias",BAND NEWS HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/17951
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/17951
 #EXTINF:-1 tvg-id="Deutsch" tvg-name="DEUTSCH" tvg-logo="http://img.starbr.in/1552656180_5859bbdfb34e7323eccbd84bb7d5023c93181a5a.jpg" group-title="Noticias",DEUTSCH
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/18034
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/18034
 #EXTINF:-1 tvg-id="Deutsch" tvg-name="DEUTSCH HD" tvg-logo="http://img.starbr.in/1552656180_5859bbdfb34e7323eccbd84bb7d5023c93181a5a.jpg" group-title="Noticias",DEUTSCH HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/37776
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/37776
 #EXTINF:-1 tvg-id="Deutsch" tvg-name="DEUTSCH SHD" tvg-logo="http://img.starbr.in/1552656180_5859bbdfb34e7323eccbd84bb7d5023c93181a5a.jpg" group-title="Noticias",DEUTSCH SHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38471
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/38471
 #EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="http://img.starbr.in/1516305633_d4159c885b1b9642652d2166c68fb14ea0118f48.png" group-title="Noticias",E!
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1063
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/1063
 #EXTINF:-1 tvg-id="E!" tvg-name="E! HD" tvg-logo="http://img.starbr.in/1516305633_d4159c885b1b9642652d2166c68fb14ea0118f48.png" group-title="Noticias",E! HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/5083
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/5083
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS HD" tvg-logo="http://img.starbr.in/1516309117_7f7c1bfb444c2e2ce328bfb0a775a505c7698a86.png" group-title="Noticias",GLOBO NEWS HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/5085
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/5085
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS SD 1" tvg-logo="http://img.starbr.in/1516309117_7f7c1bfb444c2e2ce328bfb0a775a505c7698a86.png" group-title="Noticias",GLOBO NEWS SD 1
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38716
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/38716
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS SD 2" tvg-logo="http://img.starbr.in/1516309117_7f7c1bfb444c2e2ce328bfb0a775a505c7698a86.png" group-title="Noticias",GLOBO NEWS SD 2
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38715
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/38715
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS SD 3" tvg-logo="http://img.starbr.in/1516309117_7f7c1bfb444c2e2ce328bfb0a775a505c7698a86.png" group-title="Noticias",GLOBO NEWS SD 3
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38714
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/38714
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS SD 4" tvg-logo="http://img.starbr.in/1516309117_7f7c1bfb444c2e2ce328bfb0a775a505c7698a86.png" group-title="Noticias",GLOBO NEWS SD 4
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1027
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/1027
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS SD+" tvg-logo="http://img.starbr.in/1516309117_7f7c1bfb444c2e2ce328bfb0a775a505c7698a86.png" group-title="Noticias",GLOBO NEWS SD+
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/23980
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/23980
 #EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS HD" tvg-logo="http://img.starbr.in/1516324071_28ffcd4f79fc9a354305060278b4f675ccdcd601.png" group-title="Noticias",RECORD NEWS HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2400
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/2400
 #EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS HD+" tvg-logo="http://img.starbr.in/1516324071_28ffcd4f79fc9a354305060278b4f675ccdcd601.png" group-title="Noticias",RECORD NEWS HD+
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38785
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/38785
 #EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS SD 1" tvg-logo="http://img.starbr.in/1516324071_28ffcd4f79fc9a354305060278b4f675ccdcd601.png" group-title="Noticias",RECORD NEWS SD 1
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38784
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/38784
 #EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS SD 2" tvg-logo="http://img.starbr.in/1516324071_28ffcd4f79fc9a354305060278b4f675ccdcd601.png" group-title="Noticias",RECORD NEWS SD 2
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/966
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/966
 #EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS SD+" tvg-logo="http://img.starbr.in/1516324071_28ffcd4f79fc9a354305060278b4f675ccdcd601.png" group-title="Noticias",RECORD NEWS SD+
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38443
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/38443
 
 
 
